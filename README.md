@@ -1,3 +1,4 @@
+![Grumpy_and_Annoyed_Chatbot](https://i.imgur.com/qtCDdL4.jpeg)
 # Made with Python using Tensorflow, NLTK and Numpy.
 
 ### Its purpose is to have a free conversation with the user.
@@ -9,4 +10,4 @@ It operates by:
 
 Techniques such as tokenization, stemming, and bag-of-words are utilized for this purpose.
 
-![Grumpy_and_Annoyed_Chatbot](https://i.imgur.com/KxzvnCn.jpeg)
+![Grumpy_and_Annoyed_Chatbot-1](https://i.imgur.com/KxzvnCn.jpeg)
